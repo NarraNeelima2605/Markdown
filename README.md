@@ -46,10 +46,10 @@
 [Github](https://github.com/NarraNeelima2605/VRSEC.git)
 
 **Table**
-|Name|Branch|college|
+Name|Branch|college
 |------|------|-----|        
-|abc|CSE|VRSEC|     
-|xyz|IT|VRSEC|          
+abc|CSE|VRSEC                 
+xyz|IT|VRSEC                      
 
 **Code**
 ```
