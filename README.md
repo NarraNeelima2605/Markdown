@@ -61,7 +61,7 @@ def iseven(n):
       return false
       
 ```          
-~~The world is flat.~~
+~~The world is flat.~~                
 **Emojis**
 
 :smiley:           
